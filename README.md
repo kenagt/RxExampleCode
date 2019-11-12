@@ -1,4 +1,4 @@
-# RxExampleCode
+# RxSwiftExampleCode
 RxSwift example for URLSession
 
 Example code for post @Medium:
